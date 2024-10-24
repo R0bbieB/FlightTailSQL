@@ -1,0 +1,2 @@
+This Project uses sqlite to read in a csv file containing flight data from Kaggle.com. It creates a database of the flights and then looks at the flight delay categorizing it by
+The Tail number.
